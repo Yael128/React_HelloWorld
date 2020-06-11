@@ -1,1 +1,0 @@
-A "Hello, World" app using React
